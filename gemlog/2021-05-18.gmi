@@ -1,0 +1,21 @@
+# 2021-05-18
+
+=> https://mastodon.sdf.org/@anthonyg/106259947492811147 Comment on Mastodon
+
+# Done with grading
+
+I'm a university lecturer, by trade, and today I finished grading for my semester.
+
+Damn, this was rough.
+
+I had so many cheating students this semester--I don't think I've ever seen it this bad before. In every single class (three in total), there were at least two students who thought that it would be a good idea to copy entire projects, exam questions, or lab assignments. In one class, I had six do this for homework submissions.
+
+It's very draining on me to have to put up with this from people who are supposed to be adults. For those who I caught (and there are likely ones that I *didn't* catch this time around), the punishment will be severe for them. Our college has a pretty strict policy on cheating and plagiarism, and I plan to utilize it.
+
+I'm sure that our COVID social-distancing is somewhat to blame here. Cheating is pretty tempting when your entire class is behind a computer screen and the big wide Internet is right there in front of you. But I also can't help that somewhere along the line these students have done this before, gotten away with it, and believe that it is okay to do.
+
+The students who actually responded to my requests to discuss their submissions all seemed fairly entitled to a good grade in the class and most weren't apologetic about doing it. I hate to sound like an old man, but *back in my day* this was totally unacceptable behavior for university students to do at any level. But these are about-to-graduate seniors (and a category we have in CS we dub 'super seniors' for their 5th-year status). The most frequent plea I got from them was that they were about to graduate and could I please just pass them 'because that would throw off graduation date'.
+
+No. No. No. I will not contribute to your shitty behavior. I don't care that your family was expecting to see you walk next week. I don't care that you had plans and a job lined up and blah, blah, blah.
+
+And stop trying to make *me* feel bad because you decided to take a shortcut with your schoolwork and got caught. You fucked up, not me, and now you have to deal with the fallout of that.

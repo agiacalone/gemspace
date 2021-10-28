@@ -1,0 +1,14 @@
+#Want to get in touch?
+
+I'm readily accessible these days on a variety of platforms. I typically prefer open and secure messaging, but there are a few exceptions:
+
+* email: anthonyg at sdf dot org (PGP)
+* jabber: anthonyg at jabber dot sdf dot org
+* jabber: anthonyg at xmpp.circumlunar.space (internal only)
+* mastodon: anthonyg at mastodon dot sdf dot org
+* irc: anthonyg on irc.tilde.chat and irc.sdf.org
+* facebook: hell no
+
+=> pubkey.asc PGP public key
+=> https://twitter.com/avrak twitter
+=> http://anthonyg.sdf.org html website

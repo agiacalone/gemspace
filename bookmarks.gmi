@@ -1,0 +1,52 @@
+# Bookmarks
+
+You have 44 bookmarks.
+
+Save this page to export them, or you can copy them to the clipboard.
+
+=> gopher://0x1bi.net/ 0x1bi.net
+=> gemini://gemini.circumlunar.space/docs/gemtext.gmi A quick introduction to "gemtext" markup
+=> gemini://republic.circumlunar.space/users/maugre/ About — maugre
+=> gemini://republic.circumlunar.space/~anthonyg/ anthonyg's Gemini capsule — anthonyg
+=> gopher://sdf.org:70/1/users/anthonyg/ anthonyg's Gopherspace
+=> gemini://gemini.techrights.org/ Articles from Techrights (GemText)
+=> gemini://frrobert.net/bbc/ BBC News US and Canada
+=> gemini://republic.circumlunar.space/~anthonyg/bookmarks.gmi Bookmarks — anthonyg
+=> gemini://gemini.circumlunar.space/users/druxx/my-gemini-notes.gmi CHEAT SHEET — druxx
+=> gemini://republic.circumlunar.space/zine/ Circumlunar Transmissions - Home
+=> gemini://cosmic.voyage/ Cosmic Voyage
+=> gemini://geddit.glv.one/ Geddit
+=> gemini://discovery.geminiprotocol.com/ Gemini Discovery
+=> gemini://alex.flounder.online/gemlog/2021-01-08-useless.gmi Gemini is Useless
+=> gemini://geminispace.info/newest-hosts geminispace.info - Gemini Search Engine
+=> gemini://geminispace.info/ geminispace.info - Gemini Search Engine
+=> gemini://skyjake.fi/lagrange/getting_started.gmi Getting Started
+=> gopher://gopher.floodgap.com/1 gopher.floodgap.com
+=> gopher://gopherpedia.com:70/ gopherpedia.com
+=> gopher://i-logout.cz:70/1/bongusta/ i-logout.cz
+=> gemini://konpeito.media/ konpeito.media
+=> gemini://skyjake.fi/lagrange/ Lagrange
+=> gemini://typed-hole.org/lobsters/lobsters.gemini Lobste.rs
+=> gemini://republic.circumlunar.space/ Mare Serenitatis Circumlunar Corporate Republic
+=> gemini://medusae.space/index.gmi medusae.space gemini directory
+=> gemini://midnight.pub/ midnight.pub
+=> gemini://nightfall.city/ Nightfall City
+=> gemini://acidic.website/musings/npr-bridge.gmi NPR Text Portal and Spec Changes
+=> gopher://gopher.club/1/users/otr/ otr
+=> gemini://sdf.org/ sdf.org
+=> gemini://gem.sdf.org/ SDF.org
+=> gemini://republic.circumlunar.space/users/slugmax/ slugmax
+=> gopher://r.circumlunar.space:70/1/~slugmax/phlog slugmax
+=> gopher://r.circumlunar.space:70/1/~slugmax slugmax's New Site
+=> gemini://gemini.circumlunar.space/~solderpunk/ Solderpunk's Gemini capsule — solderpunk
+=> gemini://perso.pw:1966/solene/ Solene personal logs
+=> gemini://perso.pw/blog/ Solene's % gemini capsule - a gemini tech blog
+=> gopher://0x1bi.net/1/textfiles textfiles.com
+=> gemini://simplynews.metalune.xyz/ This is SimplyNews
+=> gemini://typed-hole.org/tilde_news/index.gmi tilde.news
+=> gemini://tilde.team/ tilde.team
+=> gemini://typed-hole.org/ typed-hole.org
+=> gemini://tilde.pink/ Welcome to tilde.pink!
+=> gopher://gopher.661.org/1/if-archive/ IF Archive
+
+Each link represents a bookmark. Folder structure is defined by level 2/3 headings. Bullet lines and quotes are reserved for additional information about the preceding bookmark. Text lines and preformatted text are considered comments and should be ignored.

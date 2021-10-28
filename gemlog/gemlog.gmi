@@ -1,0 +1,10 @@
+# anthonyg's Gemlog
+
+=> gemini://gemini.circumlunar.space/docs/companion/subscription.gmi Subscribe to my Gemlog!
+
+# Gemlog
+
+=> 2021-10-19.gmi 2021-10-19 - Samus Needs a New Suit
+=> 2021-09-12.gmi 2021-09-12 - Usenet MSTings
+=> 2021-05-18.gmi 2021-05-18 - Done with grading
+=> 2021-05-15.gmi 2021-05-15 - My first entry

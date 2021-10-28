@@ -1,0 +1,61 @@
+# 2021-10-19
+
+I've been punching hard at my job recently, but it isn't all bad. This semester, I'm teaching an elective course in Cybersecurity. Many of my students in that class are graduating seniors and I can have a little bit of fun with them. Here is a lab assignment that I recently created:
+
+---
+
+# Lab 2: Samus Needs a New Suit
+
+## Assignment description
+
+We're in the section of the class where we discuss malware, and what better way to practice all of the same skill-set of skills than to do some ROM hacking!
+
+Games are fun, and in tribute to one of the great game franchises with a new release this last month, let's have some fun with the original *Metroid*. Here is your mission: **Samus needs your help!** She hasn't updated her Power Suit since 1986 and it needs to have the latest tech installed. Turns out, her new Power Suit looks exactly like her old one...but it's *purple*.
+
+So here is where you come in. Change Samus's power suit color from yellow to purple to put her in the new suit and send her off to kick some metroid butt! Samus told me that it was okay to credit yourself as her new "tailor", so give yourself credit during the opening title screen within the game.
+
+You will have to grab an emulator for old NES-roms. Check the following webpage for emulators on your operating system:
+
+=> https://www.emulator-zone.com/nes/mesen Mesen
+=> https://openemu.org OpenEMU
+
+You will also need a hex editor / debugger for this assignment. There are some romhacking tools specialized for this purpose (which you are free to use), but I suggest using Ghidra and giving the NSA's program a spin. That's how I did it. :-)
+
+=> https://github.com/NationalSecurityAgency/ghidra Ghidra
+
+I got a lot of my info from (really, virtually everything for doing this assignment) from ROMhacking.net. I recommend you look at that site too, particularly the documents section.
+
+=> https://www.romhacking.net ROMhacking.net
+
+Here are a few documents I found helpful:
+
+=> https://www.romhacking.net/documents/113 6502 Instruction Summary
+=> https://www.romhacking.net/documents/14 NES Palette hacking: The Fast way
+
+Plus, of course, a healthy dose of knowledge from our computer architecture class. You will also need to tinker with this assignment: get creative; try things; experiment; play around with this. Make an early copy of your ROM file and don't worry about messing it up. Many hackers learn more from *play* than work.
+
+## Some obvious things that shouldn't need to be said, but have to be right now
+
+1. Don't apply any patches or third-party code to your ROM file other than the code *you* change. A simple run of a `diff` program will easily tell me which pieces have been changed and which haven't.
+
+2. Do your own work. Cheating and plagiarism are at all time highs in our department and we are being extra watchful right now.
+
+3. Come to me if you need help. Really. I'm surprised people don't do this *more*. There are some things that I won't be able tell you about, but quite a bit that I can.
+
+4. Have fun with this assignment. It's *supposed* to be fun. Hard, yes. But the best puzzles are always the hardest ones ;-).
+
+## Deliverables
+
+Here is what I will need from you:
+
+1. Your modified, runnable (in working order) `metroid.nes` file which will include:
+* Samus's in-game suit changed to purple (NES color code: `0x23` or some other purple-looking one)
+* Your name as hacking credits in the game code, preferably displayed when the game runs
+
+2. A screenshot of the game, with Samus's color change and a unique background image within the game. Something to show that you did this.
+
+3. A write up with the following info:
+* The offsets of the locations changed
+* Which value each offset now contains
+* Your experiences with the project
+* Anything else you want to tell me

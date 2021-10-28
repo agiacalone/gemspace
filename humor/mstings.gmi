@@ -1,0 +1,38 @@
+# Usenet MSTings
+A collection of humor in the form of "MSTings", an early 1990s text-based poking fun of poorly-written fanfic. Most of these appeared in alt.tv.mst3k and rec.arts.tv.mst3k on Usenet. I loved these back in the day, and they still remain some of my favorite early Internet satire. Get ready for some cringe!
+
+In tribute to one of the oldest, bloodiest flame-wars on the Internet: Joel > Mike.
+
+## The MSTings
+### Stephen Ratliff's Marrissa Saga (in rough chronological order)
+=> mstings/entrprzd.txt Enterprized - Part One
+=> mstings/entrpzd2.txt Enterprized - Part Two
+=> mstings/3-guls.txt A Gul's Revenge
+=> mstings/4-Bajor.txt Battle for Bajor (revised Gul's Revenge)
+=> mstings/horses.txt All the King's Horses
+=> mstings/5-cadet.txt Cadet Cruise
+=> mstings/whoq.txt Who Q? Where Q?
+=> mstings/home1.txt Away from Home, Book One
+=> mstings/home2.txt Away from Home, Book Two
+=> mstings/home3.txt Away from Home, Book Three
+=> mstings/capt-doc.txt The Captain and the Doctor
+=> mstings/roylmess.txt A Royal Mess, Part One
+=> mstings/ARoyalMess2.txt A Royal Mess, Part Two
+=> mstings/home_for_christmas_MB.txt Home for Christmas
+=> mstings/Royal_and_Prime_Directives.txt Royal and Prime Directives
+=> mstings/timespdr.txt Time Speeder (The Stargazer Missions)
+=> mstings/pm.txt Premier Marquis
+=> mstings/only_constant_DH.txt The Only Constant
+=> mstings/The_Seventh_Fleet.txt The Seventh Fleet
+=> mstings/wedding.txt A Royal Wedding
+=> mstings/new-gen.txt A New Generation - A Marrissa Story
+=> mstings/fallcomm.txt Falling Into Command
+=> mstings/Return_to_Glory.txt Return to Glory
+### Non-Ratliff Marrissa Stories (yes, there existed fanfic of fanfic...)
+=> mstings/Hail_to_the_Queen.txt Hail to the Queen (Rob Tonts)
+=> mstings/Before_the_Dawn.txt Before the Dawn (Thomas Keeler)
+=> mstings/Winning_Love_By_Daylight.txt Winning Love By Daylight
+### Epic MSTings
+=> mstings/Treklander.txt Treklander (1994)
+=> mstings/A_sorceror_A_demon_and_Emeralds.txt A Sorceror, A Demon, and Emeralds (1997)
+=> mstings/Stolen_Memories.txt Stolen Memories (1998)

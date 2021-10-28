@@ -1,0 +1,59 @@
+# Documents and Links
+
+## UNIX stuff 
+### Books related to UNIX and anything of historical computing interest
+=> unixprogenv.pdf The Unix Programming Environment - K&P (PDF)
+=> clanguage.pdf The C Programming Language - 2nd Ed K&R (PDF)	
+=> advancedunixprog.pdf Advanced UNIX Programming - 2nd Ed (PDF)	
+=> adprogenv.pdf Advanced Programming in the UNIX Env 3rd Ed (PDF)
+=> designunixos.pdf The Design of the UNIX Operating System (PDF)
+=> lifeunix.pdf Life With Unix - Libes (PDF)
+=> unixhaters.pdf The Unix Hater's Handbook (PDF)
+=> expertc.pdf Expert C Programming - Linden (PDF)
+=> linuxif.pdf The Linux Programming Interface (PDF)
+=> artunix.pdf The Art of Unix Programming - Raymond (PDF)
+=> modernos.pdf Modern Operating Systems 4th Ed - Tanenbaum (PDF)
+=> v7vol1.pdf UNIX Programmer's Manual - 7th Ed. Vol 1 (PDF)
+=> v7vol2a.pdf UNIX Programmer's Manual - 7th Ed. Vol 2a (PDF)
+=> v7vol2b.pdf UNIX Programmer's Manual - 7th Ed. Vol 2b (PDF)
+=> unixsysadmin.pdf UNIX and Linux Sys Admin Handbook 4th (PDF)
+=> standardc.djvu The Standard C Library - Plauger (DJVU)
+=> cnutshell.pdf C in a Nutshell  - O'Reilly (PDF)
+=> unixpowertools.pdf Unix Power Tools - O'Reilly (PDF)
+=> practiceprog.djvu The Practice of Programming - K&P (DJVU)
+=> elementsprog.djvu The Elements of Programming Style - K&P (DJVU)
+=> design44bsd.pdf The Design and Implementation of the 4.4 BSD Operating System - McKusick et al. (PDF)
+
+## Computer Science
+### Classic works of computer science
+=> taocpv1.pdf The Art of Computer Programming, Vol 1 - Knuth (PDF)
+=> taocpv2.pdf The Art of Computer Programming, Vol 2 - Knuth (PDF)
+=> taocpv3.pdf The Art of Computer Programming, Vol 3 - Knuth (PDF)
+=> taocpv4a.pdf The Art of Computer Programming, Vol 4a - Kunth (PDF)
+=> dragonbook.pdf Compilers: Principles, Techniques, and Tools (Dragon Book), 2nd Edition - Aho (PDF)
+
+# Interesting reads
+=> http://ricardo.ecn.wfu.edu/~cottrell/wp.html Word Processors: Stupid and Inefficient
+
+## Hacker culture
+=> jargon-4.4.7.dos.txt The Jargon File 4.4.7 (2003)
+=> gopher://0x1bi.net/1/textfiles textfiles.com
+=> hack7.txt The Conscience of a Hacker
+=> hack11a.txt Hacker Crackdown - Bruce Sterling (Project Gutenberg edition)
+=> codegeek.txt The Geek Code
+=> history_long.txt The "Only" Coke Machine on the Internet
+
+## Phlogs and gemlogs that I like
+=> gopher://r.circumlunar.space:70/1/~slugmax Slugmax's Phlog
+
+## Gopher stuff
+=> gopher://gopherpedia.com Gopherpedia
+=> gopher://sdf.org:70/0/users/rbigelo/gopher.txt What is Gopher?
+=> Internet-Gopher-PPL-Alberti.pdf Alberti's "Rise and Fall of Gopher" Paper (PDF)
+=> Internet-Gopher-PPL-Alberti.txt Alberti's "Rise and Fall of Gopher" Paper (TXT)
+=> gopher://sdf.org SDF Gopher Directory
+=> gopher://gopher.floodgap.com Floodgap's Gopher Server
+../humor/ed.txt Ed - The Standard Editor=> http://gopher.floodgap.com/overbite The Overbite Project (HTML)
+
+# WWW stuff
+=> https://duckduckgo.com DuckDuckGo

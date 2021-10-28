@@ -1,0 +1,5 @@
+# 2021-05-15
+
+# My first entry
+
+I've got a phlog on Gemini! Yes, I know that I had started one before on Gopherspace and it didn't really go anywhere...but there were some PIA implementation issues that existed with my setup. And there was the lack of motivation thing too...

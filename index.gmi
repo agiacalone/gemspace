@@ -1,0 +1,13 @@
+# anthonyg's Gemini capsule
+
+Stay tuned...more to come soon as I convert my Gopherspace to Gemini. Gemini looks like a great protocol to get away from the insanity of Web 2.0 and appears to be actively developed and maintained.
+
+=> gemlog/index.gmi  My gemlog
+=> humor/index.gmi Humor
+=> docs/index.gmi  Documents and Links
+
+
+## Info about me
+=> contact.gmi Get in touch with me...
+=> gopher://sdf.org:70/1/users/anthonyg/ My old gopherspace
+=> http://anthonyg.sdf.org My HTTP Website
