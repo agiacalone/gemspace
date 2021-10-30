@@ -1,0 +1,6 @@
+## literature and philosophy
+
+=> animal_farm-orwell.txt Animal Farm - Orwell
+=> diary_of_uboat_cmdr.txt Diary of a U-Boat Commander
+=> we.txt We - Zamyatin
+=> moby_dick.txt Moby Dick - Melville

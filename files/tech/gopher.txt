@@ -1,0 +1,25 @@
+Gopher | Gopher & GopherSpace
+-----------------------------
+
+"Gopher" - in this case - is a network protocol and distributed
+document delivery system which uses a universal file hierarchy that
+transcends system architectures to serve files and documents.
+
+A "network protocol" is a set of instructions by which one computer
+communicates with other computers on a network. The computer in
+which a Gopher resides communicates with other networked computers
+so the Gopher can deliver files and documents to them.
+
+Gopher is also an online "space" that is free of advertising and
+commercialism. Because it doesn't display images, support Java or
+Javascript, Gopher space is a poor choice for those who want to
+advertise, commercialize or monetize the Internet.
+
+Gopher just may be the last commercial-free space on the Internet.
+
+--------------------------------------------------------------------
+| Use your browser's [BACK] button to return to the previous menu. |
+--------------------------------------------------------------------
+Email questions or comments to anthonyg AT sdf DOT org
+LAST UPDATED
+Mon Nov 07 12:46:23 PST 2011

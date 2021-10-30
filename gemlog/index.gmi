@@ -1,1 +1,6 @@
-./gemlog.gmi
+# weird ramblings of a forty-something lecturer software engineer
+
+=> 2021-10-19.gmi 2021-10-19 - Samus Needs a New Suit
+=> 2021-09-12.gmi 2021-09-12 - usenet MSTings
+=> 2021-05-18.gmi 2021-05-18 - done with grading
+=> 2021-05-15.gmi 2021-05-15 - my first entry

@@ -1,13 +1,12 @@
-# anthonyg's Gemini capsule
+# a quiet place
 
-Stay tuned...more to come soon as I convert my Gopherspace to Gemini. Gemini looks like a great protocol to get away from the insanity of Web 2.0 and appears to be actively developed and maintained.
+I'm glad to finally find a place away from the chaos of Web 2.0 where we can just kick back and relax. Pull up a chair and stay a while. Care for a cup? I'll try to keep the conversation interesting.
 
-=> gemlog/index.gmi  My gemlog
-=> humor/index.gmi Humor
-=> docs/index.gmi  Documents and Links
+If you want to know what I'm thinking about recent events or what is hapening in my life right now, my gemlog has some longer thoughts of mine.
+=> gemlog/index.gmi my gemlog
 
+I'm always on the lookout for interesting things around the Internet. Here are a bunch of random files and stories that I've collected.
+=> files/index.gmi various files and things that I like
 
-## Info about me
-=> contact.gmi Get in touch with me...
-=> gopher://sdf.org:70/1/users/anthonyg/ My old gopherspace
-=> http://anthonyg.sdf.org My HTTP Website
+Want to keep in touch after you go? Here's a list of my contact info for us text-based types. Drop me a line if you want.
+=> contact.gmi my contact page

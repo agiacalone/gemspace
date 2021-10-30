@@ -1,4 +1,5 @@
 # 2021-10-19
+## Samus needs a new suit
 
 I've been punching hard at my job recently, but it isn't all bad. This semester, I'm teaching an elective course in Cybersecurity. Many of my students in that class are graduating seniors and I can have a little bit of fun with them. Here is a lab assignment that I recently created:
 

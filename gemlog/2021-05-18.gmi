@@ -1,8 +1,5 @@
 # 2021-05-18
-
-=> https://mastodon.sdf.org/@anthonyg/106259947492811147 Comment on Mastodon
-
-# Done with grading
+## done with grading
 
 I'm a university lecturer, by trade, and today I finished grading for my semester.
 

@@ -1,0 +1,7 @@
+## Humor
+
+=> mstings/index.gmi Usenet MSTings
+=> ed.txt Ed - The Standard Editor
+=> real_programmers.txt Real Programmers Don't Use PASCAL
+=> bofh1.txt The Bastard Operator From Hell #1
+=> discordia.pdf Principia Discordia (PDF)

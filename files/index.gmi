@@ -1,0 +1,7 @@
+## files and stories
+
+Why files and stories? Because I believe that the two are interchangable. Really, why else are we here? To tell stories and learn from each other.
+
+=> tech/index.gmi technical stories
+=> humor/index.gmi humorous stories
+=> lit/index.gmi cultural and philosophical stories

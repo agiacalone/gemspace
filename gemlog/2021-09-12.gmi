@@ -1,7 +1,6 @@
 # 2021-09-12
+## usenet MSTings
 
-# Usenet MSTings
+Doing a bit of digital cleanup over the weekend and I came across some old Usenet MSTings that I kept from years ago. If you would like to check them out, I have uploaded them to a special section on my files page. Enjoy!
 
-Doing a bit of digital cleanup over the weekend and I came across some old Usenet MSTings that I kept from years ago. If you would like to check them out, I have uploaded them to a special section on my Files page. Enjoy!
-
-=> ../humor/mstings.gmi Usenet MSTings
+=> ../files/humor/mstings/index.gmi Usenet MSTings
