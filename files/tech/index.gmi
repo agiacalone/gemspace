@@ -50,4 +50,5 @@
 => http://ricardo.ecn.wfu.edu/~cottrell/wp.html Word Processors: Stupid and Inefficient (html)
 
 ## www stuff
-=> https://duckduckgo.com DuckDuckGo
+=> https://wiby.me Wiby - no js http search engine
+=> https://html.duckduckgo.com/html DuckDuckGo - no js
