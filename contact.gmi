@@ -11,5 +11,6 @@ I'm readily accessible these days on a variety of platforms. I typically prefer 
 * facebook: hell no
 
 => pubkey.txt PGP public key
-=> http://anthonyg.sdf.org html website
+=> http://anthonyg.sdf.org html website hosted by SDF
+=> gopher://sdf.org:70/1/users/anthonyg I also have a gopherhole on SDF
 => https://avrak.org my other html website and personal domain
