@@ -2,13 +2,14 @@
 
 I'm readily accessible these days on a variety of platforms. I typically prefer open and secure messaging, but there are a few exceptions.
 
-* email: anthonyg at sdf dot org
-* jabber: anthonyg at jabber dot sdf dot org
-* jabber: anthonyg at xmpp.circumlunar.space (internal only)
-* mastodon: anthonyg at mastodon dot sdf dot org
-* irc: anthonyg on irc.tilde.chat and irc.sdf.org
+* email: anthonyg@sdf.org
+* jabber: anthonyg@jabber.sdf.org
+* jabber: anthonyg@xmpp.circumlunar.space (internal only)
+* mastodon: anthonyg@social.sdf.org
+* com: anthonyg on sdf.org
+* irc: anthonyg on irc.sdf.org, irc.tilde.chat and irc.libera.chat
 * facebook: hell no
 
-=> pubkey.asc PGP public key
+=> pubkey.txt PGP public key
 => http://anthonyg.sdf.org html website
 => https://avrak.org my other html website and personal domain
