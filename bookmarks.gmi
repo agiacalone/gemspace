@@ -1,11 +1,13 @@
 # Bookmarks
 
-You have 40 bookmarks.
+You have 44 bookmarks.
 
 Save this page to export them, or you can copy them to the clipboard.
 
 => gemini://alex.flounder.online/gemlog/2021-01-08-useless.gmi Gemini is Useless
 => gemini://ploum.net/2022-10-05-there-is-no-content-on-gemini.gmi There Is No Content on Gemini
+=> gemini://skyjake.fi/lagrange/getting_started.gmi Getting Started
+=> about:bookmarks Bookmarks
 => about:help Help
 
 ## My Personal Stuff
@@ -19,13 +21,14 @@ Save this page to export them, or you can copy them to the clipboard.
 => gemini://typed-hole.org/lobsters/index.gmi typed-hole.org - Lobsters
 => gemini://typed-hole.org/tilde_news/index.gmi typed-hole.org - Tilde.news
 => gemini://gemini.techrights.org/ gemini.techrights.org
+=> gopher://1436.ninja:70/1/Port70News 1436.ninja
 
 ## Directories
 => gopher://gopher.floodgap.com/1 gopher.floodgap.com
 => gopher://sdf.org:70/ sdf.org Gopher Directory
 => gemini://republic.circumlunar.space/ Mare Serenitatis Circumlunar Corporate Republic
-=> gemini://medusae.space/index.gmi medusae.space gemini directory
 => gemini://soviet.circumlunar.space/ soviet.circumlunar.space
+=> gemini://medusae.space/ medusae.space gemini directory
 => gemini://nightfall.city/ Nightfall City's Districts
 => gemini://cosmic.voyage/ Cosmic Voyage
 => gemini://midnight.pub/ midnight.pub
@@ -45,6 +48,7 @@ Save this page to export them, or you can copy them to the clipboard.
 => gopher://i-logout.cz:70/1/bongusta/ i-logout.cz
 => gemini://konpeito.media/ konpeito.media
 => gemini://perso.pw/blog/ Solene's % gemini capsule - a gemini tech blog
+=> gopher://gopher.black/ gopher.black
 
 ## Cool Things
 => gopher://gopher.661.org/1/if-archive/ gopher.661.org - IF Archive
@@ -53,6 +57,6 @@ Save this page to export them, or you can copy them to the clipboard.
 => gopher://0x1bi.net/1/textfiles 0x1bi.net - Textfiles
 => gopher://gopherpedia.com:70/ gopherpedia.com
 => gemini://skyjake.fi/lagrange/ Lagrange
-=> gemini://skyjake.fi/lagrange/getting_started.gmi Getting Started
+=> gemini://station.martinrue.com/ station.martinrue.com
 
 Each link represents a bookmark. Folder structure is defined by level 2/3 headings. Bullet lines and quotes are reserved for additional information about the preceding bookmark. Text lines and preformatted text are considered comments and should be ignored.
